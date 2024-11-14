@@ -66,14 +66,8 @@ export default function Controls() {
               }}
               variant={"destructive"}
             >
-              <span>
-                <Phone
-                  className={"size-4 opacity-50"}
-                  strokeWidth={2}
-                  stroke={"currentColor"}
-                />
-              </span>
-              <span>End Call</span>
+              
+              <span>End S.K.A.V.A</span>
             </Button>
           </motion.div>
         ) : null}

@@ -38,13 +38,9 @@ export default function StartCall() {
                 }}
               >
                 <span>
-                  <Phone
-                    className={"size-4 opacity-50"}
-                    strokeWidth={2}
-                    stroke={"currentColor"}
-                  />
+                  
                 </span>
-                <span>Start Call</span>
+                <span>Start S.K.A.V.A</span>
               </Button>
             </motion.div>
           </AnimatePresence>
